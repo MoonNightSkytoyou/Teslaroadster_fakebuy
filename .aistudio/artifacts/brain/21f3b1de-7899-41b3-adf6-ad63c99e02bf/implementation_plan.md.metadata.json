@@ -1,0 +1,6 @@
+{
+  "summary": "規劃移除第一頁 Roadster 車輛圖片之四方框限制，將其重構為無邊框自然融入純黑背景，並透過兩側與上下柔和漸變消隱（Soft Edge Gradient Fade），保持原有垂直排版位置，使車輛視覺震撼展開且不遮擋 RESERVE NOW 按鈕。",
+  "updatedAt": "2026-10-17T17:54:10.152808931Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

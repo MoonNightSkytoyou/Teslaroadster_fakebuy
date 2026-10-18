@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Roadster Reservation & Apple Pay Experience",
+  "description": "Interactive Tesla Roadster reservation UI/UX flow featuring real-time package selection, custom black card Apple Pay Face ID authorization animation, and confirmation screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
